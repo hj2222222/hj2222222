@@ -72,8 +72,8 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true)
 
 <!--
 **hj2222222/hj2222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
