@@ -75,6 +75,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true)
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu" alt="GitHub stats" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true" alt="Top Languages" style="width: 45%;" />
+</div>
+
 <!--
 **hj2222222/hj2222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
