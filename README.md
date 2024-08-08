@@ -42,7 +42,7 @@
 </div>
 
 
-<h3 align="center">📚 Studying 📚</h3>
+## 📚 Studying 📚
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+## 📫 Contact 📫
 <div align="center">
     <a href="mailto:lhj880067@gmail.com">
         <img src="https://img.shields.io/badge/
