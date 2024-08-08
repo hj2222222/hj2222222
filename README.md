@@ -136,7 +136,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true" alt="Top Languages" style="width: 28%;" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj980822" alt="baekjoon" style="width: 32%;"/>
 </div>
- 
-<br>
-<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%" height="400px"/>
