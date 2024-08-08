@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
 
 
 ## 안녕하세요 개발자 지망생의 깃허브입니다!
