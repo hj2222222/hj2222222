@@ -58,16 +58,6 @@
 </div>
 
 
-
-<div align="center">
-  
-## 📚 Studying 📚
-<br>
-<br>
-</div>
-
-<br>
-
 <div align="center">
   
   ## 🛠 Tools 🛠
