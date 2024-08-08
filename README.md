@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./back.jpg" width="1200px" height="400px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYEL-zbrWsqu7rh5aSQ0HHbzMgKuXiVGCgw&s" width="1200px" height="400px"/>
 </div>
 
 ## Hi there 👋
