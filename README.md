@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200color=gradient)
 
 
 ## 안녕하세요 개발자 지망생의 깃허브입니다!
