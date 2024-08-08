@@ -7,7 +7,7 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/blue?style=rectangle&logo=python&logoColor=blue"/></a>
 </div>
 
 <div align="center">
