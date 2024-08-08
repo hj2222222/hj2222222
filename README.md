@@ -51,7 +51,10 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=radical)
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu)
 
 
 <!--
