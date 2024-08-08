@@ -41,19 +41,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
-<div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-
-</div>
-
-<br>
 
 <h3 align="center">📚 Studying 📚</h3>
+
 <div align="center">
 
 </div>
@@ -63,17 +53,11 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
 
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-
-</div>
 
 <br>
 
