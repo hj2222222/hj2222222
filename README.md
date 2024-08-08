@@ -3,12 +3,18 @@
 <div align="center">
   
 ## 안녕하세요 개발자 지망생의 깃허브입니다!
+<br>
+<br>
 <div align="center">
-<h3 align="center">✨ Tech Stack ✨</h3>
 
+  ## ✨ Tech Stack ✨
+<br>
+<br>
 <div align="center">
 
 ## LANGUAGE
+<br>
+<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -16,7 +22,8 @@
 
   
 ## ML/DL 
-  
+<br>
+<br>  
   </br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,6 +35,8 @@
   
 ##  Front_End 
   <br>
+  <br>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 </div>
@@ -36,7 +45,8 @@
   
 ## Back_End 
   <br>
-
+<br>
+<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) <br/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
@@ -48,6 +58,8 @@
 <div align="center">
   
 ## 📚 Studying 📚
+<br>
+<br>
 </div>
 
 <br>
@@ -55,6 +67,8 @@
 <div align="center">
   
   ## 🛠 Tools 🛠
+  <br>
+<br>
 </div>
 <div align="center">
 
@@ -69,6 +83,8 @@
 <div align="center">
   
 ## 📫 Contact 📫
+<br>
+<br>
 </div>
 
 <br>
