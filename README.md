@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=250&width=100%)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=250&width=10000px)
 
 
 ## 안녕하세요 개발자 지망생의 깃허브입니다!
@@ -76,6 +76,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu" alt="GitHub stats" style="width: 45%; height:200px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true" alt="Top Languages" style="width: 45%; height: 200px;" />
 </div>
+
+<br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 <!--
