@@ -5,12 +5,9 @@
 ## 안녕하세요 개발자 지망생의 깃허브입니다!
 <br>
 <br>
-<div align="center">
-
   ## ✨ Tech Stack ✨
 <br>
 <br>
-<div align="center">
 
 ## LANGUAGE
 <br>
