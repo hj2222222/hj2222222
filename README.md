@@ -73,10 +73,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu" alt="GitHub stats" style="width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true" alt="Top Languages" style="width: 35%;" />
 </div>
+<br>
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
 
 <br>
 <br>
-
+<br>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 <!--
 **hj2222222/hj2222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
