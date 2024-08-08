@@ -73,7 +73,7 @@
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu" alt="GitHub stats" style="width: 37%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true" alt="Top Languages" style="width: 28%;" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=axew" width="32%" height="100%"/>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=lhj980822" width="32%" height="100%"/>
 
 <br>
 <br>
