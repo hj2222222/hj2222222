@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05mF_R6qon0NJqrz7s0fjacih82u2bt9hIw&s" width="100%" height="200px"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
 
 ## Hi there 👋
 
