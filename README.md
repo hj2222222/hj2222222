@@ -4,6 +4,8 @@ type=rounded&color=timeGradient&animation=twinkling&height=180)
 
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05mF_R6qon0NJqrz7s0fjacih82u2bt9hIw&s" width="100%" height="200px"/>
+  ![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&animation=twinkling&height=180)
 </div>
 
 ## Hi there 👋
