@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=250&width=100%)
 
 
 ## 안녕하세요 개발자 지망생의 깃허브입니다!
