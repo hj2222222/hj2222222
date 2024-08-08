@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinklingheight=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=250)
 
 
-## Hi there 👋
+## 안녕하세요 개발자 지망생의 깃허브입니다!
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
