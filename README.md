@@ -76,8 +76,8 @@
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true)
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu" alt="GitHub stats" style="width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true" alt="Top Languages" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hj2222222&show_icons=true&theme=yeblu" alt="GitHub stats" style="width: 45%; height="200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj2222222&layout=compact&theme=nord&hide_border=true" alt="Top Languages" style="width: 45%; height="200px;" />
 </div>
 
 <!--
