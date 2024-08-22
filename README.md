@@ -12,7 +12,7 @@
 - 국민대학교 경영학부 AI빅데이터융합경영학과 (2017-03 ~ 2024-08) <br>
 - python 프로그래밍 언어 학습 및 기본적인 라이브러리 pandas/numpy/matplotlib 등 데이터 분석에 필요한 기본 지식 습득
 - 데이터 분석 및 자연어 전처리 및 개인과제 프로젝트 진행(국민 청원 데이터 분석)
-- 배운 지식을 바탕으로 팀을 이뤄 논문 작성 및 투고(금융 특화 감정분석 및 딥러닝 시계열 모델을 활용한 코스피 지수 예측)
+- 배운 지식을 바탕으로 팀을 이뤄 논문 작성 및 투고 및 등재([금융 특화 감정분석 및 딥러닝 시계열 모델을 활용한 코스피 지수 예측](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079))
 <hr>
 
 - [x] (AI 활용 소프트웨어 개발 및 응용) 웹서버 기반 AI 응용 개발자구축과정B
